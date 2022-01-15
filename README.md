@@ -6,5 +6,3 @@ I mostly code in **Python**, and it's still my most favorite language. However, 
 I'm always open to suggestions. If you see something in any of my projects that you would like to correct, even something as minor as a spelling mistake, feel free to make a PR to any of my repositories. I will almost certainly merge it in!
 
 ![PythonCoderAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonCoderAS&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoderAS&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
