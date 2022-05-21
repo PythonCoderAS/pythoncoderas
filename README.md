@@ -32,10 +32,19 @@ This table of contents **excludes** most forks, since they are mostly used to co
 * [mangadex-importer](https://github.com/PythonCoderAS/mangadex-importer)
 * [MangoDicks-wiki-Twinkle](https://github.com/PythonCoderAS/MangoDicks-wiki-Twinkle)
 
+## Paperback Source Repos
+
+* [pythoncoderas-extensions](https://github.com/PythonCoderAS/pythoncoderas-extensions)
+* [extensions-flatmangareader](https://github.com/PythonCoderAS/extensions-flatmangareader)
+
 ## Python Packages
 
 * [Python-Markdown-Table](https://github.com/PythonCoderAS/Python-Markdown-Table)
 * [SmartRange](https://github.com/PythonCoderAS/SmartRange)
+* [TweetBlogger](https://github.com/PythonCoderAS/TweetBlogger)
+* [GoComics-Downloader](https://github.com/PythonCoderAS/GoComics-Downloader)
+* [ColorLogger](https://github.com/PythonCoderAS/ColorLogger)
+* [AsyncDex](https://github.com/PythonCoderAS/AsyncDex)
 
 ## Python Scripts
 
@@ -52,6 +61,7 @@ This table of contents **excludes** most forks, since they are mostly used to co
 
 * [Coding-for-All](https://github.com/PythonCoderAS/Coding-for-All)
 * [CompSci](https://github.com/PythonCoderAS/CompSci)
+* [Hackathon](https://github.com/PythonCoderAS/Hackathon)
 * [Algorithims-Assignments](https://github.com/PythonCoderAS/Algorithims-Assignments)
 
 ## Shell Scripts
