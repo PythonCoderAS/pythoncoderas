@@ -11,6 +11,17 @@ I'm always open to suggestions. If you see something in any of my projects that 
 
 This table of contents **excludes** most forks, since they are mostly used to contribute to upstream repositories.
 
+* [Discord Bots](#discord-bots)
+* [GitHub Special Repos](#github-special-repos)
+* [JavaScript Packages](#javascript-packages)
+* [MangaDex Stuff](#mangadex-stuff)
+* [Paperback Source Repos](#paperback-source-repos)
+* [Python Packages](#python-packages)
+* [Python Scripts](#python-scripts)
+* [Reddit Programs](#reddit-programs)
+* [School Course Files](#school-course-files)
+* [Shell Scripts](#shell-scripts)
+
 ## Discord Bots
 
 * [MangaReleaseBot](https://github.com/PythonCoderAS/MangaReleaseBot)
