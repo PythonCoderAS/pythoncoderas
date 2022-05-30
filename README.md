@@ -37,7 +37,7 @@ This table of contents **excludes** most forks, since they are mostly used to co
 
 <detail>
   <summary>What is Homebrew?</summary>
-  <p>[Homebrew](https://github.com/homebrew/brew) is a package manager for MacOS and linux systems.</p>
+  <p><a href="https://github.com/homebrew/brew">Homebrew</a> is a package manager for MacOS and linux systems.</p>
 </detail>
 
 * [homebrew-brew](https://github.com/PythonCoderAS/homebrew-brew)
