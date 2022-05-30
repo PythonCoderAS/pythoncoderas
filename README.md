@@ -35,10 +35,10 @@ This table of contents **excludes** most forks, since they are mostly used to co
 
 ## Homebrew taps
 
-<detail>
+<details>
   <summary>What is Homebrew?</summary>
   <p><a href="https://github.com/homebrew/brew">Homebrew</a> is a package manager for MacOS and linux systems.</p>
-</detail>
+</details>
 
 * [homebrew-brew](https://github.com/PythonCoderAS/homebrew-brew)
 
