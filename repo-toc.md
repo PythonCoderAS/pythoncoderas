@@ -2,8 +2,10 @@
 
 This table of contents **excludes** most forks, since they are mostly used to contribute to upstream repositories.
 
+<!-- auto generated toc start -->
 * [Discord Bots](#discord-bots)
 * [GitHub Special Repos](#github-special-repos)
+* [Homebrew taps](#homebrew-taps)
 * [JavaScript Packages](#javascript-packages)
 * [MangaDex Stuff](#mangadex-stuff)
 * [Paperback Source Repos](#paperback-source-repos)
@@ -12,6 +14,7 @@ This table of contents **excludes** most forks, since they are mostly used to co
 * [Reddit Programs](#reddit-programs)
 * [School Course Files](#school-course-files)
 * [Shell Scripts](#shell-scripts)
+<!-- auto generated toc end -->
 
 ## Discord Bots
 
