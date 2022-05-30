@@ -33,10 +33,23 @@ This table of contents **excludes** most forks, since they are mostly used to co
 * [pythoncoderas.github.io](https://github.com/PythonCoderAS/pythoncoderas.github.io)
 * [pythoncoderas](https://github.com/PythonCoderAS/pythoncoderas)
 
+## Homebrew taps
+
+<detail>
+  <summary>What is Homebrew?</summary>
+  <p>[Homebrew](https://github.com/homebrew/brew) is a package manager for MacOS and linux systems.</p>
+</detail>
+
+* [homebrew-brew](https://github.com/PythonCoderAS/homebrew-brew)
+
 ## JavaScript Packages
 
 * [array-string-map](https://github.com/PythonCoderAS/array-string-map)
 * [concurrent-priority-worker-queue](https://github.com/PythonCoderAS/concurrent-priority-worker-queue)
+* [eslint-config-oclif](https://github.com/PythonCoderAS/eslint-config-oclif)
+* [eslint-config-oclif-typescript](https://github.com/PythonCoderAS/eslint-config-oclif-typescript)
+* [github-list-all-prs](https://github.com/PythonCoderAS/github-list-all-prs)
+* [github-watch-all-repos](https://github.com/PythonCoderAS/github-watch-all-repos)
 
 ## MangaDex Stuff
 
