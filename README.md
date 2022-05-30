@@ -5,4 +5,6 @@ I mostly code in **Python**, and it's still my most favorite language. However, 
 
 I'm always open to suggestions. If you see something in any of my projects that you would like to correct, even something as minor as a spelling mistake, feel free to make a PR to any of my repositories. I will almost certainly merge it in!
 
+You can view my [repository table of contents](https://github.com/PythonCoderAS/pythoncoderas/blob/master/repo-toc.md) to get a structured view about the repos I own on GitHub. This document does not include organizations that I am part of.
+
 ![PythonCoderAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonCoderAS&show_icons=true)
