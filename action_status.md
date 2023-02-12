@@ -1,3 +1,5 @@
+# Action Status
+This serves as a "dashboard" for how the Actions in various repos are running.
 ## [array-string-map](https://github.com/PythonCoderAS/array-string-map)
 [![CodeQL](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml) 
 ## [bbcode-ast](https://github.com/PythonCoderAS/bbcode-ast)
